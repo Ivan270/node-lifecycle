@@ -1,22 +1,26 @@
-{
-	"autos": [
-		{
-			"id": 1,
-			"marca": "ferrari",
-			"modelo": "F40",
-			"asientos": 2
-		},
-		{
-			"id": 2,
-			"marca": "porsche",
-			"modelo": "911",
-			"asientos": 2
-		},
-		{
-			"id": 3,
-			"marca": "lamborghini",
-			"modelo": "murcielago",
-			"asientos": 2
-		}
-	]
-}
+[
+    {
+        "id": 1,
+        "marca": "Ferrari",
+        "modelo": "F40",
+        "asientos": 3
+    },
+    {
+        "id": 2,
+        "marca": "volkswagen",
+        "modelo": "golf",
+        "asientos": "4"
+    },
+    {
+        "id": 3,
+        "marca": "lamborghini",
+        "modelo": "murcielago",
+        "asientos": 2
+    },
+    {
+        "id": "fa6278",
+        "marca": "ferrari",
+        "modelo": "f2000",
+        "asientos": "1"
+    }
+]
